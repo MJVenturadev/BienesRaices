@@ -124,6 +124,7 @@ h4 {
     background-image: url(../img/header.jpg);
     background-position: left;
     background-size: cover;
+    background-attachment: fixed;
     height: 100vh
 }
 
